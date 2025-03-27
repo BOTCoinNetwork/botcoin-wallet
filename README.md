@@ -1,4 +1,4 @@
-# Monet Wallet
+# botcoin Wallet
 
 A user interface to interact with Monet.
 
